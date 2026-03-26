@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+My name is Gayatri, IT Engineering Student
+- 🔭 I’m currently working on [sitePalete](https://site-palette-one.vercel.app/), which is a tool for UI designers for faster customized designs.
+- 🌱 I’m currently learning ML Algorithms
+- ⚡ I recently built a UI design of [GreenForSure](https://www.figma.com/proto/n5JgohNFZL5xJTjnwEjy1G/Untitled?node-id=1-902&starting-point-node-id=1%3A902&t=rKQpwWj55q4kxS28-1), a environment education platform contains various real-life tasks which actually helps enviroonment and entertain users also !
+- 👯 Worked for MillionaireGRE, built GRE Mock Test Platform. check it out [here](https://millionaire-gre-llp.vercel.app/)
 <!--
 **Gphurpade/Gphurpade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
